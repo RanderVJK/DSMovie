@@ -12,7 +12,7 @@
   box-sizing: border-box;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, img, div {
   margin: 0;
 }
 
@@ -105,4 +105,12 @@ main {
   justify-content: center;
   border-radius: 4px;
   text-decoration: none;
+}
+
+/* DSMovie Form */
+
+.dsmovie-form-container {
+  padding: 40px 0;
+  max-width: 480px;
+  margin: auto;
 }
